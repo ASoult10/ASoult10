@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ASoult10
+- 👀 I’m interested in everything that has to do with computing and coding
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on big projects which may change the world
+- 📫 How to reach me -> asoulttoscano@gmail.com
