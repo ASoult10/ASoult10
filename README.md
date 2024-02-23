@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASoult10
 - 👀 I’m interested in everything that has to do with computing and coding
 - 🌱 I’m currently learning Java and Python
-- 📚 I’m currently studying Software Engineering
+- 📚 I’m studying Software Engineering at University Of Seville
 - 📫 How to reach me -> asoulttoscano@gmail.com
